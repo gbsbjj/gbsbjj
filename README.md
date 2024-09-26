@@ -6,38 +6,26 @@ Olá, meu nome é Gabriel Henrique, e eu sou um DevOps | SRE
 
 
 ## 🛠 &nbsp;Tech Stack
-<div style="display: inline_block"><br/>
-  <img aling="center" src="https://img.shields.io/badge/-SRE-05122A?style=flat&logo=SRE") />
-  <img aling="center" src="https://img.shields.io/badge/-DevOps-05122A?style=flat&logo=DevOps") />
-  <img aling="center" src="https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=ci/cd") />
-  <img aling="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img aling="center" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-<!--   <img aling="center" src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" /> -->
-  <img aling="center" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  <img aling="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img aling="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img aling="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img aling="center" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-<!--   <img aling="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> -->
-<!--   <img aling="center" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> -->
-  <img aling="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<!--   <img aling="center" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" /> -->
-<!--   <img aling="center" src="https://img.shields.io/badge/nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white" /> -->
-  <img aling="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img aling="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<!--   <img aling="center" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> -->
-  <img aling="center" src="https://img.shields.io/badge/HCL-100000?style=for-the-badge&logo=unity&logoColor=white" />
-<!--   <img aling="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white") /> -->
-<!--   <img aling="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> -->
-<!--   <img aling="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-" /> -->
-  <img aling="center" src="https://img.shields.io/badge/-DOCKER-05122A?style=flat&logo=DOCKER") />
-  <img aling="center" src="https://img.shields.io/badge/-KUBERNETES-05122A?style=flat&logo=KUBERNETES") />
-  <img aling="center" src="https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=NGINX") />
-  <img aling="center" src="https://img.shields.io/badge/-TERRAFORM-05122A?style=flat&logo=TERRAFORM") />
-  <img aling="center" src="https://img.shields.io/badge/-ANSIBLE-05122A?style=flat&logo=ANSIBLE") />
-  <img aling="center" src="https://img.shields.io/badge/-PROMETHEUS-05122A?style=flat&logo=PROMETHEUS") />
-  <img aling="center" src="https://img.shields.io/badge/-GRAFANA-05122A?style=flat&logo=GRAFANA") />
-  
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://img.shields.io/badge/SRE-white?style=for-the-badge&logo=SRE&logoColor=white&color=90EE90" alt="SRE" />
+  <img src="https://img.shields.io/badge/DevOps-black?style=for-the-badge&logo=DevOps&logoColor=white&color=FF7F00" alt="DevOps" />
+  <img src="https://img.shields.io/badge/CI%2FCD-white?style=for-the-badge&logo=ci/cd&logoColor=white&color=800080" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black&color=A52A2A" alt="Linux" />
+  <img src="https://img.shields.io/badge/Red%20Hat-white?style=for-the-badge&logo=redhat&logoColor=white&color=C02942" alt="Red Hat" />
+  <img src="https://img.shields.io/badge/Debian-white?style=for-the-badge&logo=debian&logoColor=white&color=A9CCE3" alt="Debian" />
+  <img src="https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=windows&logoColor=white&color=0078D7" alt="Windows" />
+  <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=white&color=FF7F00" alt="GIT" />
+  <img src="https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab&logoColor=white&color=20528E" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Google_Cloud-white?style=for-the-badge&logo=google-cloud&logoColor=white&color=1A73E8" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Shell_Script-black?style=for-the-badge&logo=gnu-bash&logoColor=white&color=40E0D0" alt="Shell Script" />
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&color=FFFF00" alt="Python" />
+  <img src="https://img.shields.io/badge/DOCKER-white?style=for-the-badge&logo=DOCKER&logoColor=white&color=0039A6" alt="DOCKER" />
+  <img src="https://img.shields.io/badge/KUBERNETES-white?style=for-the-badge&logo=KUBERNETES&logoColor=white&color=9E3C79" alt="KUBERNETES" />
+  <img src="https://img.shields.io/badge/NGINX-white?style=for-the-badge&logo=NGINX&logoColor=white&color=00BFFF" alt="NGINX" />
+  <img src="https://img.shields.io/badge/TERRAFORM-white?style=for-the-badge&logo=TERRAFORM&logoColor=white&color=CD6744" alt="TERRAFORM" />
+  <img src="https://img.shields.io/badge/Ansible-white?style=for-the-badge&logo=ANSIBLE&logoColor=white&color=c62828" alt="Ansible" />
+  <img src="https://img.shields.io/badge/prometheus-white?style=for-the-badge&logo=prometheus&logoColor=white&color=000080" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-white?style=for-the-badge&logo=grafana&logoColor=white&color=CC5500" alt="Grafana" />
 </div>
  
 
