@@ -11,8 +11,8 @@ Olá, meu nome é Gabriel Henrique, e eu sou um DevOps | SRE
   <img src="https://img.shields.io/badge/DevOps-black?style=for-the-badge&logo=DevOps&logoColor=white&color=FF7F00" alt="DevOps" />
   <img src="https://img.shields.io/badge/CI%2FCD-white?style=for-the-badge&logo=ci/cd&logoColor=white&color=800080" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black&color=A52A2A" alt="Linux" />
-  <img src="https://img.shields.io/badge/Red%20Hat-white?style=for-the-badge&logo=redhat&logoColor=white&color=C02942" alt="Red Hat" />
-  <img src="https://img.shields.io/badge/Debian-white?style=for-the-badge&logo=debian&logoColor=white&color=A9CCE3" alt="Debian" />
+<!--   <img src="https://img.shields.io/badge/Red%20Hat-white?style=for-the-badge&logo=redhat&logoColor=white&color=C02942" alt="Red Hat" /> -->
+<!--   <img src="https://img.shields.io/badge/Debian-white?style=for-the-badge&logo=debian&logoColor=white&color=A9CCE3" alt="Debian" /> -->
   <img src="https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=windows&logoColor=white&color=0078D7" alt="Windows" />
   <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=white&color=FF7F00" alt="GIT" />
   <img src="https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab&logoColor=white&color=20528E" alt="GitLab" />
